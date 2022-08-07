@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyBody
+  - PlayerBody
+  - EnemyAttack
+  - PlayerAttack
+  - AlertRadius
+  - AttackRadius
+  - Hotbar
+  - Armory
+  - Mob
+  - Slot
+  - Item
+  - WeaponSlot
+  - StatsBar
+  - ItemInfo
+  - Minimap
+  - melee_weapon
+  - ranged_weapon
+  - Bow
+  - Sword
+  - Scroll
+  - Pickaxe
+  - Inventory
+  - Bag
+  - Chest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Physical
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

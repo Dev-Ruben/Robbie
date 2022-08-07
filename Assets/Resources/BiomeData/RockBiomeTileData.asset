@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab57b02716aa744b8527262cf0bdae2, type: 3}
+  m_Name: RockBiomeTileData
+  m_EditorClassIdentifier: 
+  tiles:
+  - tileType: 0
+    tilePrefab: {fileID: 7829763780427281752, guid: a2914f82b3af678439f3f6389451b567,
+      type: 3}
+  - tileType: 1
+    tilePrefab: {fileID: 3154463660484656376, guid: b8b6ca076bf77e04292c673584a74ce9,
+      type: 3}
+  - tileType: 2
+    tilePrefab: {fileID: 6724799386950725587, guid: 0aa0f1de7ebf37246b0161d7bbfc3d17,
+      type: 3}
+  - tileType: 3
+    tilePrefab: {fileID: 8904616714852946145, guid: 85179a7e74785f44685ed412686f27ac,
+      type: 3}
+  - tileType: 4
+    tilePrefab: {fileID: 8716301885076337175, guid: f4a316443e98f284a9b85aad996abee5,
+      type: 3}
+  - tileType: 5
+    tilePrefab: {fileID: 4286888142317291756, guid: 25d3cb49c9c153d4bb5e694f06532115,
+      type: 3}
+  - tileType: 6
+    tilePrefab: {fileID: 3958008154983753780, guid: 1eea78ab46d39484b9465edacea64144,
+      type: 3}
+  - tileType: 7
+    tilePrefab: {fileID: 7000627020339981408, guid: 08506f0cd75cd9848a9448b0fc6ca928,
+      type: 3}
+  - tileType: 8
+    tilePrefab: {fileID: 5967167518566708939, guid: 7067208511aac8d408ca2a4b7eec26a0,
+      type: 3}
+  - tileType: 9
+    tilePrefab: {fileID: 7441881747322048819, guid: 20bc1f42e396ca24eacc94a22b4871b4,
+      type: 3}
+  - tileType: 10
+    tilePrefab: {fileID: 4398664375271918434, guid: 76f45be68ea9c6341833a5ae9f5e76fd,
+      type: 3}
+  - tileType: 11
+    tilePrefab: {fileID: 5278415214897288360, guid: ddd9c6cfa2be8df42b6976166d504842,
+      type: 3}
+  - tileType: 12
+    tilePrefab: {fileID: 1808152480988703100, guid: 7d924c58b674ca340be1fc1033879e0e,
+      type: 3}
+  - tileType: 13
+    tilePrefab: {fileID: 1808152480988703100, guid: 7d924c58b674ca340be1fc1033879e0e,
+      type: 3}

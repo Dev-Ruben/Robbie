@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab57b02716aa744b8527262cf0bdae2, type: 3}
+  m_Name: HillsBiomeTileData
+  m_EditorClassIdentifier: 
+  tiles:
+  - tileType: 0
+    tilePrefab: {fileID: 8291094593070148991, guid: f212e90af71616241828708eb20ae17c,
+      type: 3}
+  - tileType: 1
+    tilePrefab: {fileID: 6726056928917321444, guid: e9b6ec9f2f2782143bfb5708a4c2a7aa,
+      type: 3}
+  - tileType: 2
+    tilePrefab: {fileID: 4563192428751015908, guid: 7bb6313d1701cba40b9041a246e3d819,
+      type: 3}
+  - tileType: 3
+    tilePrefab: {fileID: 6876700685517022845, guid: e3d290d74b63bd644bbff5af9a0e04e0,
+      type: 3}
+  - tileType: 4
+    tilePrefab: {fileID: 413024407304595289, guid: c46bf94b5874167499f61e97a52cee14,
+      type: 3}
+  - tileType: 5
+    tilePrefab: {fileID: 83969044176003389, guid: 98f58b60ce5b3b747bf717feefeb2af6,
+      type: 3}
+  - tileType: 6
+    tilePrefab: {fileID: 6055518215444567736, guid: 6f0d160ad94ac9448b590965dc2d0416,
+      type: 3}
+  - tileType: 7
+    tilePrefab: {fileID: 5616688871153208114, guid: 91717591092899b4a8b697f4cb17409c,
+      type: 3}
+  - tileType: 8
+    tilePrefab: {fileID: 368491678932541503, guid: 81307ae67ec2042478803d2bc628329f,
+      type: 3}
+  - tileType: 9
+    tilePrefab: {fileID: 7516520395104181587, guid: 348d6d3bff027e3438438fa430afb093,
+      type: 3}
+  - tileType: 10
+    tilePrefab: {fileID: 912357773168308690, guid: 928cc61a8940d27479dc0d3a9d363830,
+      type: 3}
+  - tileType: 11
+    tilePrefab: {fileID: 7361387315875626895, guid: 8c2d8bb09dcdd3840a744fe992c35adf,
+      type: 3}
+  - tileType: 12
+    tilePrefab: {fileID: 5256462097080702146, guid: e73dee9135f100045acd3565b6c0e775,
+      type: 3}
+  - tileType: 13
+    tilePrefab: {fileID: 2162278374651062940, guid: 34df1966571302248ba13b0cec1a86c2,
+      type: 3}

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Iron_Chest_Animator
+  m_Controller: {fileID: 9100000, guid: 607092648198d8a46bc56c90df2e9670, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3a2f82b6bfd62bd4a958a4878587faf3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bc35597feb5bded41857c3ca9fef85f2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: af2ae81e29a84df4c9f217ead3780fa3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f229a13c0421aee4d9400a4bbab8a5fb, type: 2}

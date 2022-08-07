@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee775b6041b4c0644879d543fd186b43, type: 3}
+  m_Name: Emerald_pick_axe
+  m_EditorClassIdentifier: Assembly-CSharp::ItemObject
+  id: 2
+  name: Emerald Pickaxe
+  display: {fileID: 21300000, guid: ce84d65bcebeed0439ccdddb90945555, type: 3}
+  type: 1
+  itemPrefab: {fileID: 3018506580204575361, guid: c403caee85bf6b14eb2aadf73a8686aa,
+    type: 3}
+  description: This is an emerald pickaxe.
+  maxDropAmount: 1
+  dropRarety: 5
+  stackable: 0
